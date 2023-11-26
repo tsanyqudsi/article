@@ -1,7 +1,7 @@
 {
-  "name": "article-monorepo",
-  "version": "1.0.0",
-  "description": "Template for <summary/>, Flexible and effortless API reference generator for .NET.",
+  "name": "@article/summary",
+  "version": "0.0.1",
+  "description": "JS wrapper for <summary>.",
   "license": "ISC",
   "author": "Muhammad Tsany Qudsi <tsanyqudsi@gmail.com>",
   "main": "index.js",
